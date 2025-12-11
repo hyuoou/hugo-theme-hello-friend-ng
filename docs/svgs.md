@@ -52,6 +52,7 @@
 - [mastodon](https://simpleicons.org/?q=mastodon)
 - [matrix](https://simpleicons.org/?q=matrix)
 - [medium](https://simpleicons.org/?q=medium)
+- [misskey](https://simpleicons.org/?q=misskey)
 - [mixcloud](https://simpleicons.org/?q=mixcloud)
 - [npm](https://simpleicons.org/?q=npm)
 - [opencollective](https://simpleicons.org/?q=opencollective)
